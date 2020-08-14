@@ -23,7 +23,7 @@ int main() {
                  printf("Food Item-Sandwich\n Price-Rs. 149\n");
                  break;
             default:
-                 printf("Invalid number")
+                 printf("Invalid number\n");
                  break;
             }
         return 0;
